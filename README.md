@@ -1,6 +1,6 @@
 ### Olá, tudo bem?👋
 
-🌱 Estudando Typescript, React, PHP
+🌱 Estudando Typescript, React
 
 <!--
 **Pablo-Camargo/Pablo-Camargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
