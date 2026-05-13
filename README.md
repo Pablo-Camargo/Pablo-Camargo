@@ -32,7 +32,6 @@ Atualmente focado em evoluir arquiteturas full-stack e aplicar boas práticas de
 |---------|-----------|-------|-------|
 | **🤝 Encontre seu Duo** | Plataforma full-stack para conectar usuários com interesses em comum | React, React Native, Node.js, TypeScript | [🌐 Web](#) • [📱 Mobile](#) • [⚙️ API](#) |
 | **🎮 PokedexJSX** | App interativo de busca e exploração de Pokémon | React, TypeScript, APIs externas | [🔗 Repo](https://github.com/Pablo-Camargo/PokedexJSX) |
-| **🔍 SearcheGitHub** | Ferramenta para explorar repositórios via GitHub API | TypeScript, React, GitHub API | [🔗 Repo](https://github.com/Pablo-Camargo/SearcheGitHub) |
 
 > 💡 *Dica: Substitua os `#` pelos links de deploy (Vercel, Netlify, Render, etc.) quando estiverem no ar.*
 
@@ -55,9 +54,7 @@ Atualmente focado em evoluir arquiteturas full-stack e aplicar boas práticas de
   <a href="mailto:seu-email@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://seuportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio">
-  </a>
+
 </div>
 
 ---
